@@ -1,0 +1,19 @@
+.box > div{
+    height: 250px;
+}
+
+.box.gold > div{
+    background-color: gold;
+}
+
+.box.blueviolet > div{
+    background-color: blueviolet;
+}
+
+.box.red > div{
+    background-color: red;
+}
+
+.box.purple > div{
+    background-color: purple;
+}
